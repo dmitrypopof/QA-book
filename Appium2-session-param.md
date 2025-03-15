@@ -1,3 +1,5 @@
+[Назад](README.md) в README
+
 Настройка сессии 
 
 `automationName` - Определяет, какой драйвер автоматизации использовать (например, "UiAutomator2" для Android, "XCUITest" для iOS).
