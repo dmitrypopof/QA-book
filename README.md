@@ -5,4 +5,4 @@
 
 1. [Cписок некоторых ключевых параметров](Appium2-session-param.md), которые можно использовать с методом amend в BaseOptions для настройки сессии Appium
 2. [Условия для явного ожидания](Wait.md)
-3. [Команды ADB](README.md)
+3. [Команды ADB](Command_ADB.md)
